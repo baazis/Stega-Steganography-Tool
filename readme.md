@@ -16,3 +16,16 @@ Installing Dependencies
 Running Application
 
     python main.py
+
+
+## Architecture
+
+![image](https://user-images.githubusercontent.com/58622363/148060859-9743b1ac-d4f9-40c2-acd7-09c1753ce743.png)
+
+
+## UI
+
+![image](https://user-images.githubusercontent.com/58622363/148060944-33d61d7d-6422-46ec-93c3-228e5a28ec6e.png)
+
+
+![image](https://user-images.githubusercontent.com/58622363/148061028-4429db40-b14f-4051-9b75-3bef08205389.png)
